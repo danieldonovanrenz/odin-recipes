@@ -1,0 +1,18 @@
+/* My style sheet */
+h1 {
+    font-size: 50px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img {
+    height: auto;
+    width: 300px;
+}
+
+.Description-section {
+    background-color: rgb(62, 130, 152);
+}
+
+.Description {
+    font-style: italic;
+}
